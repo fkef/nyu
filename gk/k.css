@@ -1,0 +1,42 @@
+
+img {
+    height: 200px;
+    text-align: right;
+  
+}
+html{
+    background-color: white
+}
+
+h1{
+    text-align: center;
+}
+hr{
+    height: 99;
+    width: 300;
+}
+video{
+    height: 400px;
+    text-align: center
+  
+}
+.center{
+margin: 0 auto;
+height: 300px;
+width: 800px;
+display: block;
+text-align: right;
+
+}
+h2{
+text-align: right;
+
+}
+u{
+text-align: left;
+}
+
+
+time{
+text-align: right;
+}
